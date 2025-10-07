@@ -24,8 +24,9 @@
 - Убедиться в стабильности работы после изменений
 
 ## Результаты
-- Чек-лист тестирования: [Ссылка на тест-кейсы]
-- Баг-репорты: [Ссылка на баги]
+- Чек-лист (Функциональное тестирование): [Ссылка на тест-кейсы](https://docs.google.com/spreadsheets/d/12Kzwbd0DeF19ClqG3CVNj4yw6grw1PXnLrMfBnfRM0Y/edit?usp=sharing)
+- Чек-лист (Регрессионное тестирование): [Ссылка на тест-кейсы](https://docs.google.com/spreadsheets/d/12Kzwbd0DeF19ClqG3CVNj4yw6grw1PXnLrMfBnfRM0Y/edit?gid=1540435533#gid=1540435533)
+- Баг-репорты: [Ссылка на баги](https://docs.google.com/spreadsheets/d/12Kzwbd0DeF19ClqG3CVNj4yw6grw1PXnLrMfBnfRM0Y/edit?gid=960590779#gid=960590779)
 - Скриншоты тестов: [Ссылка на папку]
 
 ## Отчёт о тестировании
