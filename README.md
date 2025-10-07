@@ -25,9 +25,16 @@
 
 ## Результаты
 - Чек-лист (Функциональное тестирование): [Ссылка на тест-кейсы](https://docs.google.com/spreadsheets/d/12Kzwbd0DeF19ClqG3CVNj4yw6grw1PXnLrMfBnfRM0Y/edit?usp=sharing)
+
+![Яндекс Метро Android - Google Таблицы функциональное](https://github.com/user-attachments/assets/c69ce658-3d21-4151-a2a3-d26c061354ed)
+
 - Чек-лист (Регрессионное тестирование): [Ссылка на тест-кейсы](https://docs.google.com/spreadsheets/d/12Kzwbd0DeF19ClqG3CVNj4yw6grw1PXnLrMfBnfRM0Y/edit?gid=1540435533#gid=1540435533)
+
+![Яндекс Метро Android - Google Таблицы регрессионное](https://github.com/user-attachments/assets/987ef33f-2d90-4eac-b5b2-e78694fc76e5)
+
 - Баг-репорты: [Ссылка на баги](https://docs.google.com/spreadsheets/d/12Kzwbd0DeF19ClqG3CVNj4yw6grw1PXnLrMfBnfRM0Y/edit?gid=960590779#gid=960590779)
-- Скриншоты тестов: [Ссылка на папку]
+  
+![Яндекс Метро Android - Google Таблицы3 баг-репорты](https://github.com/user-attachments/assets/550c22e2-0b7e-4923-8ce3-2ee69ba97c0c)
 
 ## Отчёт о тестировании
 Из 57 тестов успешно прошло 43, не прошло — 14.
